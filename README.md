@@ -32,3 +32,7 @@ Project Architecture
 *   db_init.py: Connects to server, creates database schema, and adds mock transaction data.
 *   etl_engine.py: Main script, responsible for extracting untreated rows, applying carbon math, updating database and retrieving anomaly tracking analysis.
 
+
+git clone https://github.com/binayak0ghosal-crypto/regional-carbon-tracker-pipeline.git
+cd regional-carbon-tracker-pipeline
+
