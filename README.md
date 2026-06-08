@@ -31,8 +31,4 @@ Project Architecture
 *   schema.sql: Contains core relational schemas and the definition of the analytics View.
 *   db_init.py: Connects to server, creates database schema, and adds mock transaction data.
 *   etl_engine.py: Main script, responsible for extracting untreated rows, applying carbon math, updating database and retrieving anomaly tracking analysis.
-Setup & Installation
-1. Clone the Repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd "CARBON FOOTPRINT PROJECT"
+
